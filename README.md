@@ -1,0 +1,5 @@
+- 👋 Olá, sou @Idealistabr
+- 👀 Estou interessado em...
+- 🌱 Atualmente estou formado em faculdade de ciências da computação.
+- 💞️ Estou procurando colaboradores para a Star Music.
+- 📫 Como me procurar? Pelo o meu E-Mail: idealistaofficial@gmail.com
