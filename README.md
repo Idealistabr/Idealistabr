@@ -1,4 +1,4 @@
 - 👋 Olá, sou @.Idealista™ ☕#0762
 - 🌱 Atualmente estou formado em faculdade de ciências da computação.
-- 💞️ Estou procurando colaboradores para a Star Music.
+- 💞️ Estou procurando colaboradores para a [Star Music](https://dsc.gg/starmusic)
 - 📫 Como me procurar? Pelo o meu E-Mail: idealistaofficial@gmail.com
