@@ -1,8 +1,5 @@
-
-### Olá! Eu sou o Idealista! 🖐️
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/627305881738149911)](https://discord.com/users/627305881738149911)
-
+# Olá! Eu sou o Idealista! 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovitor.inf/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOSGvq0EGDhTZwpQzN1cEBA)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/IdealistaBr/)
@@ -13,8 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=IdealistaBr&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IdealistaBr&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zRitsu&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### **Linguagens que utilizo no meu dia:**
+# **Linguagens que utilizo no meu dia:**
 <div style="display: inline_block"><br/>
 	<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 	<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -33,7 +29,6 @@
 </div><br/>
 
 *Apaixonado por tecnologias, desenvolvedor de aplicações diversas.*
-
-## **Aplicativos que utilizo:**
+# **Aplicativos que utilizo:**
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/os6nl3whjd5rwydfytjekqspb)
 [![Youtube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCOSGvq0EGDhTZwpQzN1cEBA)
