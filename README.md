@@ -1,7 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/627305881738149911)](https://discord.com/users/627305881738149911)
 # Olá! Eu sou o Idealista! 🖐️
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/users/627305881738149911)
-<a href = "mailto:idealistaofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IdealistaBr&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IdealistaBr&theme=omni&hide_border=false)<br/>
